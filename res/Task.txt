@@ -1,0 +1,6 @@
+//task id, name
+0,Move
+1,Build
+2,Retire
+3,Skip Turn,
+4,Attack 
